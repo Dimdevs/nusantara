@@ -4,6 +4,7 @@ node_modules/
 # Build output
 dist/
 build/
+tutorial/
 
 # Logs
 npm-debug.log*

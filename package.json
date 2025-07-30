@@ -17,10 +17,34 @@
     "ts-node": "^10.9.2",
     "typescript": "^5.8.3"
   },
-  "name": "nusantara",
+  "name": "@dimdevs/nusantara",
   "version": "0.1.1",
   "description": "A utility toolkit for formatting and validating data in the Indonesian context. From currency and dates to bank lists and national ID validation.",
-  "main": "jest.config.js",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dimdevs/nusantara.git"
+  },
+  "keywords": [
+    "indonesia",
+    "rupiah",
+    "formatter",
+    "currency",
+    "terbilang",
+    "tanggal",
+    "phone",
+    "bank",
+    "utils",
+    "npm",
+    "typescript",
+    "nusantara"
+  ],
+  "author": "dimdevs",
+  "license": "MIT",
   "directories": {
     "test": "tests"
   },
@@ -262,8 +286,5 @@
     "yn": "^3.1.1",
     "yocto-queue": "^0.1.0"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
   "type": "commonjs"
 }
