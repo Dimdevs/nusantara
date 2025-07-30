@@ -18,7 +18,7 @@
     "typescript": "^5.8.3"
   },
   "name": "nusantara",
-  "version": "1.0.0",
+  "version": "0.1.1",
   "description": "A utility toolkit for formatting and validating data in the Indonesian context. From currency and dates to bank lists and national ID validation.",
   "main": "jest.config.js",
   "directories": {
