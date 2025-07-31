@@ -1,1 +1,1 @@
-export const hello = () => 'Halo dari Nusantara!';
+export * from './currency/formatRupiah';
